@@ -46,7 +46,7 @@ A multi-page PDF showcasing each dashboard view with corresponding explanations.
 
 **Bikash**  
 Storekeeper | Aspiring Data Analyst  
-📩 [Connect on LinkedIn](https://www.linkedin.com/) *(Insert your real profile URL)*
+📩 [Connect on LinkedIn](www.linkedin.com/in/bikashbaro)
 
 > “Transforming operational workflows into data-driven insights.”
 
