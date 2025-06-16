@@ -31,10 +31,10 @@ Below are snapshot previews from the Power BI report. For the full interactive e
 ![Ink Dashboard](images/Ink.png)
 
 ### 📄 Paper Dashboard
-![Paper Dashboard](images/Paper.png)
+![Paper Dashboard](images/paper.png)
 
 ### 🧾 Plate Dashboard
-![Plate Dashboard](images/Plate.png)
+![Plate Dashboard](images/plate.png)
 
 ### ⚗️ Chemicals Dashboard
 ![Chemicals Dashboard](images/Chemicals.png)
