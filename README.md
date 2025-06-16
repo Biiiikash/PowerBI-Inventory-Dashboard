@@ -32,7 +32,7 @@ This Excel file contains mock transactional data used to populate the dashboard:
 
 A multi-page PDF showcasing each dashboard view with corresponding explanations. Ideal for:
 - Portfolio presentation
-- LinkedIn carousel post
+- carousel post
 - Review without needing Power BI Desktop
 
 📘 **File:** [`DashboardCarousel.pdf`](./DashboardCarousel.pdf)
