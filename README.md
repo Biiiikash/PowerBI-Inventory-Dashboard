@@ -25,19 +25,20 @@ Below are snapshot previews from the Power BI report. For the full interactive e
 ## 📊 Dashboard Previews
 
 ### 🏠 Home Dashboard
-![Home Dashboard](Home.png)
+![Home Dashboard](images/Home.png)
 
 ### 🎨 Ink Dashboard
-![Ink Dashboard](Ink.png)
+![Ink Dashboard](images/Ink.png)
 
 ### 📄 Paper Dashboard
-![Paper Dashboard](Paper.png)
+![Paper Dashboard](images/Paper.png)
 
 ### 🧾 Plate Dashboard
-![Plate Dashboard](Plate.png)
+![Plate Dashboard](images/Plate.png)
 
 ### ⚗️ Chemicals Dashboard
-![Chemicals Dashboard](Chemicals.png)
+![Chemicals Dashboard](images/Chemicals.png)
+
 
 
 ## 📂 Sample Data File
