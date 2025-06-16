@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive view of inventory operations for a newspaper printing unit. It tracks the lifecycle of critical materials—Reels, Plates, Ink, Chemicals, and Wash—from purchase to consumption and wastage.
 
-[![View on Power BI](https://img.shields.io/badge/View%20Dashboard-Power%20BI-blue?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYmI2ZDk3YjItZjlkMC00MjEzLTgwYzAtNDYxYzU4NjVjOGFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![View Live Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard-Power%20BI-blue?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYmI2ZDk3YjItZjlkMC00MjEzLTgwYzAtNDYxYzU4NjVjOGFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -15,6 +15,30 @@ This Power BI dashboard provides a comprehensive view of inventory operations fo
 - **Visual Cues**: Leverages color formatting for easy insight extraction.
 
 ---
+
+---
+
+## 🔍 What's Inside the Dashboard?
+
+Below are snapshot previews from the Power BI report. For the full interactive experience, visit the [Live Dashboard](https://tinyurl.com/245em5u2).
+
+## 📊 Dashboard Previews
+
+### 🏠 Home Dashboard
+![Home Dashboard](Home.png)
+
+### 🎨 Ink Dashboard
+![Ink Dashboard](Ink.png)
+
+### 📄 Paper Dashboard
+![Paper Dashboard](Paper.png)
+
+### 🧾 Plate Dashboard
+![Plate Dashboard](Plate.png)
+
+### ⚗️ Chemicals Dashboard
+![Chemicals Dashboard](Chemicals.png)
+
 
 ## 📂 Sample Data File
 
